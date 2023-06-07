@@ -53,7 +53,7 @@ I am currently a Master's student in Computer Science at University of Michigan,
 
 🏓🏓🏓Table Tennis 🏓🏓🏓
 
-Professionally trained as an athlete for 7 years from 2008 - 2015. **Still playing till now!!!**
+Professionally trained as an athlete for 7 years from 2008 - 2015. **Still playing now!!!**
 
 [1] Current rating at <a href = "http://www.nctta.org/">
 NCTTA (USA)</a>: **2054**
