@@ -51,7 +51,7 @@ I am currently a Master's student in Computer Science at University of Michigan,
 
 ## Activities ⚡
 
-🏓🏓🏓Table Tennis 🏓🏓🏓
+🏓🏓🏓Table Tennis🏓🏓🏓
 
 Professionally trained as an athlete for 7 years from 2008 - 2015. **Still playing now!!!**
 
