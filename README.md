@@ -64,6 +64,11 @@ NCTTA (USA)</a>: **2054**
  - Women's Single 2nd
  - Women's Double 2nd
 
+<div style="display: flex;">
+  <img src="Yijia_2022_National_Collegiate_US.jpg" alt="Yijia_2022_National_Collegiate_US" style="width: 50%;">
+  <img src="Yijia_2023_National_Collegiate_US.jpg" alt="Yijia_2023_National_Collegiate_US" style="width: 50%;">
+</div>
+
 ## Reach out to me!
  💬 <a href="https://www.linkedin.com/in/yijia-gao/"> Linkedin </a>
 
