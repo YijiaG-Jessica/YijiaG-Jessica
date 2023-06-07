@@ -58,15 +58,18 @@ Professionally trained as an athlete for 7 years from 2008 - 2015. **Still playi
 NCTTA (USA)</a>: **2054**
 
 [2] Represent **University of Michigan Table Tennis Team** in National Collegiate Table Tennis League
+- 2023 NCTTA Women's Team 9th
+- 2022 NCTTA Coed Team Tied 9th
+- 2022 NCTTA Women's Single Tied 9th
 
-[3] 2014 Shanghai Municipal Sports Games - Table Tennis 
+[3] Highlight: 2014 Shanghai Municipal Sports Games - Table Tennis 
  - Women's Team 1st
  - Women's Single 2nd
  - Women's Double 2nd
 
 <div style="display: flex;">
-  <img src="Yijia_2022_National_Collegiate_US.jpg" alt="Yijia_2022_National_Collegiate_US" style="width: 35%;">
-  <img src="Yijia_2023_National_Collegiate_US.jpg" alt="Yijia_2023_National_Collegiate_US" style="width: 35%;">
+  <img src="Yijia_2022_National_Collegiate_US.jpg" alt="Yijia_2022_National_Collegiate_US" style="width: 30%;">
+  <img src="Yijia_2023_National_Collegiate_US.jpg" alt="Yijia_2023_National_Collegiate_US" style="width: 30%;">
 </div>
 
 ## Reach out to me!
