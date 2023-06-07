@@ -65,8 +65,8 @@ NCTTA (USA)</a>: **2054**
  - Women's Double 2nd
 
 <div style="display: flex;">
-  <img src="Yijia_2022_National_Collegiate_US.jpg" alt="Yijia_2022_National_Collegiate_US" style="width: 40%;">
-  <img src="Yijia_2023_National_Collegiate_US.jpg" alt="Yijia_2023_National_Collegiate_US" style="width: 40%;">
+  <img src="Yijia_2022_National_Collegiate_US.jpg" alt="Yijia_2022_National_Collegiate_US" style="width: 35%;">
+  <img src="Yijia_2023_National_Collegiate_US.jpg" alt="Yijia_2023_National_Collegiate_US" style="width: 35%;">
 </div>
 
 ## Reach out to me!
