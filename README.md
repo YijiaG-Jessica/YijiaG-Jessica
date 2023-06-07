@@ -2,7 +2,7 @@
 
 ## Education
 
-I am currently a Master student in Computer Science at University of Michigan, Ann Arbor.
+I am currently a Master's student in Computer Science at University of Michigan, Ann Arbor.
 
 - **〽️ Master of Computer Science in Engineering** - Sep.2023~(Expected) May. 2025<br>
   University of Michigan, Ann Arbor
