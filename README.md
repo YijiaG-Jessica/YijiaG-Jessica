@@ -15,11 +15,11 @@ I am currently a Master's student in Computer Science at University of Michigan,
   Shanghai Jiao Tong University – UM-SJTU Joint Institute
 
 ## Current Work
-🔭 I am currently working for  **<a href="https://jieliu6.github.io/"> Liu Lab </a>** under Department of Computational Medicine and Bioinformatics at University of Michigan as a Graduate Student Research Assistant (GSRA). 
+I am currently working for **<a href="https://jieliu6.github.io/">Liu Lab</a>** under Department of Computational Medicine and Bioinformatics at University of Michigan as a Graduate Student Research Assistant (GSRA). 
 
-🌱 Working on developing the web system for knowledge graph  **<a href="https://gkb.dcmb.med.umich.edu/"> GenomicKB </a>** to accumulate human-readable knowledge about the human genome.
+Working on developing the web system for knowledge graph  **<a href="https://gkb.dcmb.med.umich.edu/"> GenomicKB </a>** to accumulate human-readable knowledge about the human genome.
 
-🔥 Co-authored the paper **"GenomicKB: a Knowledge Graph for the Human Genome"** published in the journal "Nucleic Acids Research" (**[DOI](https://doi.org/10.1093/nar/gkac957)**)
+Co-authored the paper **"GenomicKB: a Knowledge Graph for the Human Genome"** published in the journal "Nucleic Acids Research" (**[DOI](https://doi.org/10.1093/nar/gkac957)**)
 
 ## Projects
 ### Software
@@ -36,7 +36,7 @@ I am currently a Master's student in Computer Science at University of Michigan,
 
 - Off-road Robot Competition - Second Place
 
-## 🔧 Technologies & Tools
+## Skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B)
