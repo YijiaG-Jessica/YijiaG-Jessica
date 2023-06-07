@@ -1,4 +1,4 @@
-# Hey, everyone! I am Yijia ✨
+# Hey, everyone! I am Yijia ✨ Nice to meet you!
 
 ## Education
 
@@ -16,7 +16,7 @@ I am currently a Master student in Computer Science at University of Michigan, A
 ## Current Work
 🔭 I am currently working for  **<a href="https://jieliu6.github.io/"> Liu Lab </a>** under Department of Computational Medicine and Bioinformatics at University of Michigan as a Graduate Student Research Assistant (GSRA). 
 
-🌱 Working developing the web system for knowledge graph  **<a href="https://gkb.dcmb.med.umich.edu/"> GenomicKB </a>** to accumulate human-readable knowledge about the human genome.
+🌱 Working on developing the web system for knowledge graph  **<a href="https://gkb.dcmb.med.umich.edu/"> GenomicKB </a>** to accumulate human-readable knowledge about the human genome.
 
 🔥 Co-authored the paper **"GenomicKB: a Knowledge Graph for the Human Genome"** published in the journal "Nucleic Acids Research" (**[DOI](https://doi.org/10.1093/nar/gkac957)**)
 
@@ -24,11 +24,11 @@ I am currently a Master student in Computer Science at University of Michigan, A
 ### Software
 - Information Retrieval - Reddit Posting Helper
 
-- Client-Server Instagram Replica
+- Web System - Client-Server Instagram Replica
 
 - Machine Learning - Convolutional Neural Networks
 
-- Cloud-local Joint Energy Coordination Platform
+- Cloud and Distributed/Embedded System - Cloud-local Joint Energy Coordination Platform
 
 ### Hardware
 - Auto-controlled Rover Base
@@ -37,11 +37,11 @@ I am currently a Master student in Computer Science at University of Michigan, A
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-MatLab-informational?style=flat&logo=MatLab&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=Angular&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
