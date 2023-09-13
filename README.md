@@ -1,6 +1,6 @@
 # Hey, everyone! I am Yijia ✨ Nice to meet you!
  💬 <a href="https://www.linkedin.com/in/yijia-gao/"> Linkedin </a>     📫 [Email](mailto:yijiagao@umich.edu)
- Check out my Resume! <a href="./Yijia_Gao_Resume.pdf>Yijia Resume Last Updated 9.10.2023</a>
+ Check out my Resume! <a href="./Yijia_Gao_Resume.pdf">Yijia Resume Last Updated 9.10.2023</a>
 
 ## Education
 
