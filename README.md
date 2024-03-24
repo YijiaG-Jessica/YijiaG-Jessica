@@ -57,7 +57,7 @@ Co-authored the paper **"GenomicKB: a Knowledge Graph for the Human Genome"** pu
 Professionally trained as an athlete for 7 years from 2008 - 2015. **Still playing now!!!**
 
 [1] Current rating at <a href = "http://www.nctta.org/">
-NCTTA (USA)</a>: **2054**
+NCTTA (USA)</a>: **2077**
 
 [2] Represent **University of Michigan Table Tennis Team** in National Collegiate Table Tennis League
 - 2023 NCTTA Women's Team 9th
