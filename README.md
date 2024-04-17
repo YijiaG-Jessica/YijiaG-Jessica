@@ -1,15 +1,15 @@
 # Hey, everyone! I am Yijia ✨ Nice to meet you!
  💬 <a href="https://www.linkedin.com/in/yijia-gao/"> Linkedin </a>     📫 [Email](mailto:yijiagao@umich.edu)
- Check out my Resume! <a href="./Yijia_Gao_Resume.pdf">Yijia Resume Last Updated 3.20.2024</a>
+ Check out my Resume! <a href="./Yijia_Gao_2024_Resume.pdf">Yijia Resume Last Updated 3.20.2024</a>
 
 ## Education
 
 I am currently a Master's student in Computer Science at University of Michigan, Ann Arbor.
 
-- **〽️ Master of Computer Science in Engineering** - Sep.2023~(Expected) May. 2025<br>
+- **〽️ Master of Computer Science in Engineering** - Sep.2023~(Expected) Dec. 2024<br>
   University of Michigan, Ann Arbor
 
-- **〽️ Bachelor of Science in Data Science (Dual Degree)** - Sep. 2021~May. 2023<br>
+- **〽️ Bachelor of Science in Data Science (Dual Degree)** - Sep. 2021~May. 2023<br>:
   University of Michigan, Ann Arbor
 
 - **Bachelor of Science in Electrical and Computer Engineering (Dual Degree)** - Sep. 2019~Aug. 2023<br>
