@@ -20,7 +20,7 @@ I am currently a Master's student in Computer Science at University of Michigan,
 
 I am currently working at Zoox (Amazon Self-driving) as a Software Engineer Intern from May 2024 - August 2024.
 
-I Designed and built an end-to-end source-of-truth system from scratch for hardware-in-loop test assets with a Typer CLI front-end, FastAPI back-end, and MongoDB storage, which enabled efficient CRUD operations for internal developers. Finally, I productionized the service by deploying the API and database as containerized Docker images.
+I designed and built an end-to-end source-of-truth system from scratch for hardware-in-loop test assets with a Typer CLI front-end, FastAPI back-end, and MongoDB storage, which enabled efficient CRUD operations for internal developers. Finally, I productionized the service by deploying the API and database as containerized Docker images.
 
 
 **Full-Stack Research Developer - Graph Database**
